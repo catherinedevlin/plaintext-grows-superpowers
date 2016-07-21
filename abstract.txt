@@ -1,0 +1,15 @@
+Plaintext is the queen of formats. It's fast and efficient to write and to update. It's fully compatible with version control and with all our favorite editors. It's easy to investigate and manipulate with command-line tools and with scripting languages. No wonder programmers love it so much!
+
+Unfortunately, most users prefer more eyeball-friendly formats for their software documentation. Word processors are designed to make that possible, but they offer none of the advantages of plain text. When forced to document their work on office software, most software developers will grumble, procrastinate, and do a bad job.
+
+ 
+
+Today, tools are available offering the benefits of both. Markdown is a set of plaintext conventions that enables software tools to generate fully-formatted text instantly from plaintext documents. Jekyll is a static site generation tool that produces an entire multi-page website from a set of Markdown plaintext documents.
+
+ 
+
+Jupyter Notebooks are an extremely powerful hybrid technology - documents that fuse richly-formatted text display from Markdown components mixed with actual, operating code, optionally with graphical output. These notebooks can be powerful self-documenting experimental spaces and beautiful, executable tutorials with very little extra effort on the programmer's behalf.
+
+ 
+
+Documentation can now be a programmer's favorite part of the job!

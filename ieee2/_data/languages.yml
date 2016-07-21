@@ -1,0 +1,14 @@
+- name: Python
+  extension: py
+
+- name: Ruby
+  extension: rb
+
+- name: Perl
+  extension: pl
+
+- name: JavaScript
+  extension: js
+
+- name: PHP
+  extension: php
